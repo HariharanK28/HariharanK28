@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Hariharan 
 
-An aspiring Data Analyst
+An Aspiring Data Analyst
                                                 
 - 🌱 I’m currently learning Power BI , SQL
 - 📫 How to reach me :
