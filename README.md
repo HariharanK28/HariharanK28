@@ -2,9 +2,10 @@
 
 An Aspiring Data Analyst
                                                 
-- 🌱 I’m currently learning Power BI , SQL
+- 🌱 I’m currently learning Power BI , SQL , DAX
+
 - 📫 How to reach me :
-<br /><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hariharan-karthikeyan/)
+<br /><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hariharan-karthikeyan-632b52236)
 
 
 #### I code in 
